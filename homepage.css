@@ -1,0 +1,64 @@
+.menu {
+    background-color: #222222;
+    margin-top: 50px;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    border-width: 4px;
+    padding: 30px;
+    padding-top: 20px;
+    display: block;
+}
+
+.prompt, .PvsCprompt {
+    margin-top: 30px;
+    text-align: center;
+    float: center;
+    display: inline-block;
+    background-color:#666666;
+    text-decoration: underline;
+    width: 300px;
+}
+
+.tictactoe{
+    background-color:#666666;
+    display: inline-block;
+    border-style: solid;
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.Player{
+    background-color:#555555;
+    display: inline-block;
+    border-style: solid;
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Computer{
+    background-color:#555555;
+    display: inline-block;
+    border-style: solid;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+input[type=radio] {
+    margin-right: 20px; 
+}
+
+.tictactoe:hover, .Player:hover, .Computer:hover {
+    color: #444444;
+    background-color: white;
+}
+
+input[type="checkbox"] {
+    width: 30px;
+    margin-right: 10px;
+}

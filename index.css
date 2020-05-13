@@ -1,0 +1,13 @@
+body {
+    background-color: #92e0ff;
+    font: 30px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+  
+ol, ul {
+    padding-left: 30px;
+}
+
+.title {
+    text-align: center;
+}
